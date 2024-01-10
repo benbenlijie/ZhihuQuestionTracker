@@ -1,0 +1,22 @@
+{
+    "https://www.zhihu.com/question/635780154": {
+        "question_text": "500粉！！！什么时候能完成目标?",
+        "question_url": "https://www.zhihu.com/question/635780154",
+        "topics": [
+            "#粉丝（Fans）",
+            "#致知计划",
+            "#每日打卡"
+        ],
+        "date_raw": "提问时间：2023-12-20",
+        "potential_score_raw": "7.3 分",
+        "view_amount_raw": "6918\n共 28.3 万",
+        "answer_amount_raw": "38\n共 517",
+        "potential_score": 7.3,
+        "view_increment": 6918.0,
+        "view_total": 283000.0,
+        "answer_increment": 38,
+        "answer_total": 517,
+        "date": "2023-12-20",
+        "saved_at": "2024-01-10 17:23:36"
+    }
+}

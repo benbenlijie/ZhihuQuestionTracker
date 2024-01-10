@@ -1,0 +1,4 @@
+*.pyc
+driver/geckodriver
+driver/geckodriver-v0.34.0-linux32.tar.gz
+cookies
