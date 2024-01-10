@@ -1,10 +1,6 @@
 from selenium import webdriver
-from selenium.webdriver.firefox import service
 from selenium.webdriver.common.by import By
 import time
-import datetime
-
-
 
 
 class ZhihuScraper:
